@@ -23,10 +23,10 @@ struct binary_tree_s
 	struct binary_tree_s *left;
 	struct binary_tree_s *right;
 };
-typeof struct binary_tree_s binary_tree_t;
-typeof struct binary_tree_s bst_t;
-typeof struct binary_tree_s avl_t;
-typeof struct binary_tree_s heap_t;
+typedef struct binary_tree_s binary_tree_t;
+typedef struct binary_tree_s bst_t;
+typedef struct binary_tree_s avl_t;
+typedef struct binary_tree_s heap_t;
 
 /**
  * struct levelorder_queue_s - level order traversal queue
