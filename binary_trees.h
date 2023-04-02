@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <stddef.h>
 #include <stdlib.h>
-#inlcude <string.h>
+#include <string.h>
 
 /* Data structures used in this project */
 
